@@ -3,9 +3,8 @@
 Overview of supervised learning algorithms. 
 
 ## Contents
-- The data directory contains sample data
 - Each algorithm has their own directory in which the algorithm is explained and an example implementation can be found.
-- The test_algorithms.ipynb file contains a Jupyter notebook in which each of the algorithms is tested on the sample data.
+- The test_algorithms.ipynb file contains a Jupyter notebook in which each of the algorithms is tested on sample data from scikit-learn.
 
 ## Use Cases
 Supervised machine learning is used when...
