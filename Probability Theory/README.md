@@ -29,4 +29,4 @@ Linking the informal terms with math:
 - The elements $\omega \in \Omega$ are referred to as _elementary events_. They are the observation opportunities, so the individual events where observations _could_ be made. An elementary event is an occasion in space-time where _some_, or _any_, measurements can be made — _which_ measurements are made, i.e. which particular recording procedure is carried out at the occasion $\omega$, is not part of $\omega$!.
 - The data value space (**DVS**) is a set _S_ that contains all the possible outcomes of a particular recording procedure.
 - A particular observation procedure (**OP**) is always connected to a specific data value space _S_. If one adds another OP, the DVS is extended by the new DVS of the new OP. Mathematically, this is done using _cross-products_ of the sets S: S1 X S2. In mathematical abstraction, an OP is a _function_ which turns elementary events $\omega \in \Omega$ into data values $s \in S$. Such functions are called **random variables (RVs)**. Below is an example of random variable X.
-  - $X_{i} : \Omega \arrow S_{i}$ ($i \in I$).
+  - $X_{i} : \Omega &rarr S_{i}$ ($i \in I$).
