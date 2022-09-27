@@ -26,7 +26,10 @@ Randomness appears when an observation procedure is executed repeatedly. The dat
 Linking the informal terms with math:
 
 - **RSOI:** Modelled by a set that goes by multiple names in the literature. We will use "universe", and denote it by $\Omega$.
-- The elements $\omega \in \Omega$ are referred to as _elementary events_. They are the observation opportunities, so the individual events where observations _could_ be made. An elementary event is an occasion in space-time where _some_, or _any_, measurements can be made — _which_ measurements are made, i.e. which particular recording procedure is carried out at the occasion $\omega$, is not part of $\omega$!.
-- The data value space (**DVS**) is a set _S_ that contains all the possible outcomes of a particular recording procedure.
+- The elements $\omega \in \Omega$ are referred to as _elementary events_. They are the observation opportunities, so the individual events where observations _could_ be made. An elementary event is an occasion in space-time where _some_, or _any_, measurements can be made — _which_ measurements are made, i.e. which particular recording procedure is carried out at the occasion $\omega$, is not part of $\omega$.
+- The data value space (**DVS**) is a set _S_ that contains all the possible outcomes of a particular recording procedure. It is commonly referred to as the _sample space_.
 - A particular observation procedure (**OP**) is always connected to a specific data value space _S_. If one adds another OP, the DVS is extended by the new DVS of the new OP. Mathematically, this is done using _cross-products_ of the sets S: S1 X S2. In mathematical abstraction, an OP is a _function_ which turns elementary events $\omega \in \Omega$ into data values $s \in S$. Such functions are called **random variables (RVs)**. Below is an example of random variable X.
   - $X_{i} : \Omega -> S_{i}$ (i $\in$ I).
+
+**Important note on random variables (RVs):** Random variables are arguably the most misleadingly named mathematical objects that we have to live with. A random variable X is neither a variable (it is a function!), nor is it random (it is reliably and deterministically returning the result X($\omega$) $\in$ S when applied to the argument $\omega$). The randomness in our big picture and its mathematical abstraction is not created or modelled by the random variables. It
+resides in the universe $\Omega$ which has the property that different elementary events $\omega \in \Omega$ will lead to different data values when the (deterministic!) function X is applied.
