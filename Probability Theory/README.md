@@ -33,3 +33,12 @@ Randomness appears when an observation procedure is executed repeatedly. The dat
 
 **Important note on random variables (RVs):** Random variables are arguably the most misleadingly named mathematical objects that we have to live with. A random variable X is neither a variable (it is a function!), nor is it random (it is reliably and deterministically returning the result X( $\omega$ ) $\in$ S when applied to the argument $\omega$). The randomness in our big picture and its mathematical abstraction is not created or modelled by the random variables. It
 resides in the universe $\Omega$ which has the property that different elementary events $\omega \in \Omega$ will lead to different data values when the (deterministic!) function X is applied.
+
+## Basic operations on RVs
+
+### Elementary mathematical structure-forming operations (Appendix A)
+
+#### Pairs, tuples, and indexed families
+
+- A pair ($\omicron_{1}, \Omicron_{2}$) is ordered.
+- A set {$\omicron_{1}, \Omicron_{2}$} is unordered.
