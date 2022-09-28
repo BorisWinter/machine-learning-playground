@@ -40,5 +40,11 @@ resides in the universe $\Omega$ which has the property that different elementar
 
 #### Pairs, tuples, and indexed families
 
-- A pair $\(\omicron_{1}, \omicron_{2}\)$ is ordered.
-- A set {$\omicron_{1}, \omicron_{2}$} is unordered.
+- A pair $\(\omicron_{1}, \omicron_{2}\)$ is ordered, and two elements of a pair can be the same.
+- A set { $\omicron_{1}, \omicron_{2}$ } is unordered, and two elements of a set cannot be the same.
+- An _N-tuple_ is a generalization of a pair, with size _N_. In programming, N-tuples are often called _lists_.
+
+#### Products of sets
+- **Finite sets:** 
+
+
