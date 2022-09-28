@@ -41,4 +41,4 @@ resides in the universe $\Omega$ which has the property that different elementar
 #### Pairs, tuples, and indexed families
 
 - A pair $\(\omicron_{1}, \omicron_{2}\)$ is ordered.
-- A set $\{\omicron_{1}, \Omicron_{2}\}$ is unordered.
+- A set ${\omicron_{1}, \omicron_{2}}$ is unordered.
