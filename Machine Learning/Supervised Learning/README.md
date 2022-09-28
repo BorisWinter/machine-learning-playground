@@ -10,9 +10,9 @@ Overview of supervised learning algorithms.
 
 
 ## Use Cases
-Supervised machine learning is used when...
-- Example 1
-- Example 2
+Supervised machine learning is used for
+- **Regression:**
+- **Classification:**
 
 ## Supervised Learning Algorithms
 - Linear regression
