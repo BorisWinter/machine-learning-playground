@@ -26,6 +26,14 @@ Branches can be used to work on the same project in parallel. Each branch can be
 - **git branch -d \<branch-name\>:** Deletes a branch. HEAD cannot point to the branch that you are deleting.
 - **git branch -m \<new-name\>:** Changes the branch name. HEAD should point to the branch that you are renaming.
 
+## Merging
+The act of combining branches. Often, one merges correctly implemented features into the main branch. Merging always happens to the current HEAD branch.
+
+- git merge \<branch-name\>: merges the current branch to the specified branch.
+- **Fast-forward merge:** A merge where one branch simply catches up with additional commits from another branch.
+- Combining branches with different changes is doing using a new commit for the merge.
+- **Merge conflicts:** Occur when there are conflicting changes between the two branches.
+- You can solve merge conflicts by inspecting and altering the code where the conflicts occur.
 
 ## Other commands
 - **log:** Show all previous commits.
