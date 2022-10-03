@@ -18,14 +18,7 @@ Supervised machine learning is used for
 
 ## Supervised Learning Algorithms
 
--
-- Logistic regression
-- Naive Bayes
-- Support Vector Machine (SVM)
-- K-nearest neighbor (kNN)
-- Decision Trees
-- Random forests
-- Linear Discriminant Analysis
+The below table shows the algorithms that have been implemented, along with the purpose for which they can be used.
 
 | Algorithm                             | Classification | Regression |
 | ------------------------------------- | :------------: | :--------: |
