@@ -28,13 +28,13 @@ Supervised machine learning is used for
 - Linear Discriminant Analysis
 
 | Algorithm                             | Classification | Regression |
-| ------------------------------------- | :------------: | ---------: |
-| Ordinary Least Squares (OLS)          |                |      - [x] |
-| Linear Discriminant Analysis (LDA)    |    are neat    |         $1 |
-| Quadratic Discriminant Analysis (QDA) |    are neat    |         $1 |
-| Logistic regression                   |    centered    |        $12 |
-| Naive Bayes                           |    are neat    |         $1 |
-| Support Vector Machine (SVM)          |    are neat    |         $1 |
-| K-nearest neighbor (kNN)              |    are neat    |         $1 |
-| Decision Trees                        |    are neat    |         $1 |
-| Random forests                        |    are neat    |         $1 |
+| ------------------------------------- | :------------: | :--------: |
+| Ordinary Least Squares (OLS)          |                |  &check;   |
+| Ridge                                 |    &check;     |  &check;   |
+| Linear Discriminant Analysis (LDA)    |    &check;     |            |
+| Quadratic Discriminant Analysis (QDA) |    &check;     |            |
+| Logistic regression                   |    &check;     |            |
+| Naive Bayes                           |    &check;     |            |
+| Support Vector Machine (SVM)          |    &check;     |  &check;   |
+| K-nearest neighbor (kNN)              |    &check;     |  &check;   |
+| Decision Trees                        |    &check;     |  &check;   |
