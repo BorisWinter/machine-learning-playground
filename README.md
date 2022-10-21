@@ -1,10 +1,10 @@
 # Machine Learning | Playground
 
-This playground repository serves as a place to gather information about and implementations of subjects that I have encountered. It is a work-in-progress and will be continuously updated with all things data, ML, DL, RL, etc.
+This repository is used as a place to play around with machine learning algorithms. We differentiate between three types of algorithms:
 
-## Table of Contents
-
-1. [Links](#links)
+1. [Supervised learning](https://github.com/BorisWinter/machine-learning-playground/tree/main/supervised_learning)
+2. [Unsupervised learning](/unsupervised_learning)
+3. [Semi-supervised learning](https://github.com/BorisWinter/machine-learning-playground/tree/main/semi_supervised_learning)
 
 ## Links
 
